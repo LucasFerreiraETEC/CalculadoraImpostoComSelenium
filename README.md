@@ -11,7 +11,7 @@ Execute o seguinte comando para instalar todas as dependencias necessarias
 ```sh
 npm install 
 ```
-Para rodas os testes com o selenium é so rodar o comando
+Para executar os testes com o selenium basta executar o seguinte comando no terminal
 
 ```sh
 npm run test 
